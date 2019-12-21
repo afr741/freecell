@@ -1,4 +1,4 @@
- 
+
 body {
     background-color: #black;
     font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
@@ -71,7 +71,10 @@ ul {
     -webkit-border-radius: 3px;
 }
 
-#dialogStart { text-align: center; }
+#dialogStart {
+  text-align: center;
+  margin-top: 200px;
+ }
 
 #dialogStart .title {
     font-family: Playfair; font-size: 6em; color: black;
